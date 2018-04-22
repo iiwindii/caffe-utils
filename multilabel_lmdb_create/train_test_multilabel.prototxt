@@ -25,7 +25,7 @@ layer {
     phase: TEST
   }
   transform_param {
-    mirror:true
+    mirror:false
     mean_file:"/multilabel/data/mean.binaryproto"
   }
   data_param {
